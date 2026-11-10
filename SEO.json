@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "solar-epc-project-software",
+  "description": "Solar EPC Project Software — Energy Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Solar EPC for site surveys, BOQ, installation milestones, O&M, and warranty tracking. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "energy",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/solar-epc-project-software"
+}
